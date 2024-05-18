@@ -1,20 +1,24 @@
-import { useState } from 'react'
-
-import './App.css'
-
 function App() {
 
   return (
     <>
-     <table>
-    <thead>
-      <tr>
-        <th>id</th>
-      </tr>
-      <td></td>
-    </thead>
-     </table>
-     </>
+      <table>
+        <thead>
+          <tr>
+            <th>1</th>
+            <th>2</th>
+            <th>3</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>qw</td>
+            <td>qw</td>
+            <td>qw</td>
+          </tr>
+        </tbody>
+      </table>
+    </>
   )
 }
 
