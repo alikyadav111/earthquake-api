@@ -32,6 +32,12 @@ function App() {
             <td>kisan@gmail.com</td>
             <td>@sadnfd</td>
           </tr>
+          <tr>
+            <td>4</td>
+            <td>Suraj</td>
+            <td>Suraj@gmail.com</td>
+            <td>@sadnfd</td>
+          </tr>
         </tbody>
       </table>
     </>
